@@ -6,6 +6,7 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+[Ll]ogs/
 [Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
@@ -53,5 +54,3 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-# Unity Logs
-Logs/
